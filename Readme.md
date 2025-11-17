@@ -11,6 +11,8 @@ Convert all the mp3 files to json by running mp3_to_json
 ## Step 4- Convert the json files to Vectors
 Use the file preprocessing_json to convert the files to a dataframe with Embedings and save it as a joblib pickle
 
-## Step 5 - Prompt generations and fedding to LLM
-Read the joblib file and load it into the memmory. Then create a relavent prompt as per the user query and feed it to the LLM
+## Step 5 - Prompt generations and feeding to LLM
+Read the joblib file and load it into the memory. Then create a relavent prompt as per the user query and feed it to the LLM.
+
+
 
